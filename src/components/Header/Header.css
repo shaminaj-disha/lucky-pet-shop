@@ -1,0 +1,20 @@
+.header{
+    font-family: 'Lato';
+    background-color: lightsalmon;;
+    margin: 0;
+}
+.header h1{
+   color: maroon;
+   font-size: 50px;
+   text-align: center;
+   padding: 0;
+   margin-top: 0;
+   margin-bottom: 10px;
+}
+.header h2{
+    font-size: 36px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
